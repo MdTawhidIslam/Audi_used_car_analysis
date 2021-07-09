@@ -1,6 +1,7 @@
 # Audi_used_car_analysis
 
-Data Visualization with Barplot¶
+Data Visualization 
+
 Objectives:
 
 -Familiarity with matplotlib and seaborn
