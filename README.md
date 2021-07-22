@@ -1,31 +1,5 @@
 # Audi_used_car_analysis
 
-Data Visualization 
+The project analyzes the Exploratory Data Analysis (EDA) relationships between 8 features of Audi used cars. The features are: model, year, price, transmission, mileage, fuelType, mpg and engineSize. The data has been visualised using barplot, scatterplot, trend line, histogram, boxplot, ECDF and distribution plot.
 
-Objectives:
-
--Familiarity with matplotlib and seaborn
-
--Data Analysis using NumPy and Pandas
-
--How to find the number of unique values present in the DataFrame?
-
--How to rename a column name is pandas DataFrame?
-
--How to round the numeric values in a pandas column?
-
--How to change the index of a DataFrame?
-
--How to write functions in Python?
-
--Data Visualization: Bar plot
-
--How to change the context of a plot?
-
--How to create subplots?
-
--How to set a title, xlabel and ylabel of a plot?
-
--How to change the range of x and y axis?
-
--How to rotate the x and y tick labels?
+dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
